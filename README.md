@@ -14,10 +14,22 @@ The manager of a medium-sized company has noticed a drop in performance from the
 - DAX
 
 ## Output
-![HR case study](https://github.com/QuinnGrace/HR-Absenteeism-Case-Study/assets/73368635/ef40f835-8067-4e84-84d6-51dbb3484f4d)
+![hr correct](https://github.com/QuinnGrace/HR-Absenteeism-Case-Study/assets/73368635/a241a51b-e1fd-48e6-892a-9a567d3b1f5f)
 The dashboard that my team created.
 
 ## Conclusions
+- Spring had the most absences
+- July was the month with the most absences
+- Spring had the highest workload
+- 5 employees (of 36) make up half of all absences
+- Medical reasons were by far the most common cause of absences
+- Drinkers took the most unjustified leave (70%)
+- Reason 15 (medical reason) for absenteeism only happened on Mondays and Fridays
+- Employees with 4 children took more leave than employees with fewer children
+- Obese employees made up a quarter of employees but a third of all medical leave 
+
+## Recommendations
+
 
 
 ## Acknowledgements
