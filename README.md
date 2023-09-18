@@ -1,6 +1,6 @@
 # HR Case Study: Absenteeism Insights and Performance Improvement
 
-NOTE: Due to the nature of this project, code cannot be shared. 
+NOTE: Due to the nature of this project, code cannot be shared publicly. 
 
 ## Context 
 The manager of a medium-sized company has noticed a drop in performance from their team. After some investigation, absenteeism is pinpointed as the cause. Further digging must be done to figure out how to prevent this absenteeism.
